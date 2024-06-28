@@ -1,0 +1,9 @@
+# Arquivos de build do .NET Core
+*.obj
+*.dll
+*.exe
+*.pdb
+*.log
+*.bin
+*.cache
+*.zip
